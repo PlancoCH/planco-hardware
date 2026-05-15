@@ -1,4 +1,6 @@
 # Planco Hardware (CAD/PCB)
+<img width="200" height="200" alt="264412911" src="https://github.com/user-attachments/assets/8f846e23-c5f0-4821-9e38-4e7f5b1b6bd0" />
+
 | Metadata | Information |
 | --- | --- |
 | **Organization** | Planco |
